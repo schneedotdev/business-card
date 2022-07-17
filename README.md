@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+<h1 align="center">Business Card</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img width="514" alt="Screen Shot 2022-07-17 at 12 15 14 PM" src="https://user-images.githubusercontent.com/77141303/179411165-beb0f356-2edc-4e30-b7f1-01c23180c25f.png">
+  <p>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</p>
+</div>
 
 ## Available Scripts
 
