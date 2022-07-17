@@ -6,9 +6,15 @@ import Twitter from '../images/icons/Twitter-Icon.svg'
 function Footer() {
     return (
         <footer className="primary-footer">
-            <img className="icon" src={Github} alt="Github icon"/>
-            <img className="icon" src={LinkedIn} alt="LinkedIn icon"/>
-            <img className="icon" src={Twitter} alt="Twitter icon"/>
+            <a href="https://github.com/brianschnee">
+                <img className="icon" src={Github} alt="Github icon"/>
+            </a>
+            <a href="https://www.linkedin.com/in/brian-schnee-dev">
+                <img className="icon" src={LinkedIn} alt="LinkedIn icon"/>
+            </a>
+            <a href="https://twitter.com/BrianSchneeDev">
+                <img className="icon" src={Twitter} alt="Twitter icon"/>
+            </a>
         </footer>
     )
 }
